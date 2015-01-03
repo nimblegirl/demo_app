@@ -24,5 +24,5 @@ production:
   pool: 5
   timeout: 5000
   database: demo_production
-  username: postgres
-  password: 12345   
+  username: bkzwevnasincnq
+  password: QsJu1iQv-Pm3bT1l3KEgqgezBF   
